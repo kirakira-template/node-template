@@ -1,0 +1,1 @@
+cli: ` git clone --depth 1 git@gitlab.com:Nbsaw/node-template.git -b cli`
