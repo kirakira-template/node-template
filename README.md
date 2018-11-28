@@ -1,1 +1,1 @@
-cli: ` git clone --depth 1 git@gitlab.com:Nbsaw/node-template.git -b cli`
+cli: ` git clone --depth 1 git@gitlab.com:Nbsaw/node-template.git -b cli tmp && mv ./tmp/* ./ && rm -rf ./tmp`
