@@ -1,6 +1,6 @@
 {
-  "name": "node-template",
-  "version": "1.0.0",
+  "name": "K{packageName}",
+  "version": "K{packageVerson}",
   "main": "index.js",
   "repository": "git@gitlab.com:Nbsaw/node-template.git",
   "author": "nbsaw <nbsawz@gmail.com>",
