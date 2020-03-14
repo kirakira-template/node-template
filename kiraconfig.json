@@ -5,7 +5,8 @@
       "message": "What is your package name?"
     },
     "packageVerson": {
-      "message": "What is your package verion?"
+      "message": "What is your package verion?",
+      "initial": "1.0.0"
     }
   }
 }
