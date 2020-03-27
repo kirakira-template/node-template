@@ -5,6 +5,9 @@
   "repository": "git@gitlab.com:Nbsaw/node-template.git",
   "author": "nbsaw <nbsawz@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "K{packageName}": "./bin/cli.js"
+  },
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
